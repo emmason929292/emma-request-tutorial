@@ -1,4 +1,4 @@
-# script-ticket-73263
+# emma-request-tutorial
 
 ## Requirements
 [NodeJS >v18](https://nodejs.org/en)
@@ -16,8 +16,8 @@ LEANIX_APITOKEN = "<your apitoken>"
 ### CLI Tool
 The project installs a command line interface tool that can be run using the following command:
 ```
-git clone https://github.com/leanix-public/script-zendesk-ticket-73263.git
-cd script-zendesk-ticket-73263
+git clone https://github.com/emmason929292/emma-request-tutorial
+cd emma-request-tutorial
 npm install
 node dist/index.js --host <your workspace host> --apitoken <your api token>
 ```
